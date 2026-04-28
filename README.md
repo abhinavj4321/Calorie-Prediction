@@ -91,8 +91,3 @@ Use k-fold CV or a hold-out test set. Useful metrics:
 - **Extensions:** Per-user calibration, transfer learning for personalization, deep-learning on sensor time-series (CNN/RNN/Transformer), or deploying an inference API for a mobile demo.
 
 ---
-
-## Reproducibility & provenance
-This repository packages and polishes the analysis from the original Kaggle notebook *Calorie Prediction* by the project author (link: https://www.kaggle.com/code/nayangupta04/calorie-prediction). The pipeline and scripts reproduce the core steps: preprocessing, feature engineering, model training, evaluation, and prediction.
-
----
